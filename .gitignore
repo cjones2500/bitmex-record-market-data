@@ -3,4 +3,6 @@ node_modules/
 build/
 dist/
 *.pyc
+*.h5
+*.png
 npm-debug.log
